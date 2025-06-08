@@ -1,3 +1,4 @@
+//handles 2 api category and categories
 import categoryModel from "../models/categoryModel.js"
 class categoryController
 {
