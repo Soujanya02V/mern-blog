@@ -1,4 +1,4 @@
-#handles the authentication, hashing, generating salt
+//handles the authentication, hashing, generating salt
 import authModel from "../models/authModel.js"
 import bcryptjs from "bcryptjs";
 import jwt from "jsonwebtoken";
