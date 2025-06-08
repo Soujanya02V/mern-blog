@@ -1,3 +1,4 @@
+//handles all 3 blogs
 import blogModel from "../models/blogModel.js"
 
 class BlogController 
