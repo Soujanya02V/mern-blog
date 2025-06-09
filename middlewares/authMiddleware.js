@@ -1,3 +1,4 @@
+//webtoken need to be installed first
 import jwt from "jsonwebtoken";
 import authModel from "../models/authModel.js";
 
