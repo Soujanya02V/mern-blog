@@ -1,3 +1,4 @@
+//data model for authentication input
 import mongoose from "mongoose";
 
 const authSchema = new mongoose.Schema({
