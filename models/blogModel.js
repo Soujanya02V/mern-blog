@@ -1,3 +1,4 @@
+//data model for blog input
 import mongoose from "mongoose";
 
 const blogSchema = new mongoose.Schema({
