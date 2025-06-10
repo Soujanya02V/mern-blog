@@ -1,3 +1,4 @@
+//data model for category input field
 import mongoose from "mongoose";
 
 const categorySchema = new mongoose.Schema({
