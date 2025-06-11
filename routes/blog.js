@@ -1,3 +1,4 @@
+//manages blog application
 import express from "express";
 import AuthController from "../controllers/authController.js";
 import BlogController from "../controllers/blogController.js";
