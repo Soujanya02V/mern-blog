@@ -1,3 +1,4 @@
+//frontend file to protect some routes so that the user cant access without login
 import React from 'react'
 import { Navigate, Outlet } from 'react-router-dom'
 
