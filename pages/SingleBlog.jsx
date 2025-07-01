@@ -1,3 +1,5 @@
+//for 1 blog
+
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { useNavigate } from 'react-router-dom';
